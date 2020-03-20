@@ -1,7 +1,7 @@
 # stock-analysis
 Module 2 Stock Analysis
 # Challenge
-I refactored the code to make it more efficient.  The main question from the beginning of the exercise was whether higher trading volumes are associated with better performing stocks.  It appears there is a loose relationship with two of the three stocks that has positive returns being in the top 3 for trading volume.  
+I refactored the code to make it more efficient.  The main question from the beginning of the exercise was whether higher trading volumes are associated with better performing stocks.  I uploaded two spreadsheets, with the second one having the output sorted by total volume to visually show the relationship between total volume and  stock performance which was the initial goal of the analysis in this section.  It appears there is a loose relationship with two of the three stocks that has positive returns being in the top 3 for trading volume.
 
 
 There are several problems with this analysis: correlation is not causation, there are more factors to a stock's return than trading volume, and often stocks will have big trading volume when traders are looking to exit after bad news.  For instance, JKS was down a similar amount as DQ, but it has 50% more trading volume, and the next two worst returns were the second and fourth highest trading volume.  This tells us that other things drive returns, and indeed trading volume may be caused by these other factors.  
